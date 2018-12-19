@@ -1,0 +1,11 @@
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\bin\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.deps.json
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\bin\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.runtimeconfig.json
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\bin\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.runtimeconfig.dev.json
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\bin\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.dll
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\bin\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.pdb
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\obj\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.csprojResolveAssemblyReference.cache
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\obj\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.csproj.CoreCompileInputs.cache
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\obj\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.AssemblyInfoInputs.cache
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\obj\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.AssemblyInfo.cs
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\obj\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.dll
+c:\users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzlesAndAlgorithms\obj\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.pdb
