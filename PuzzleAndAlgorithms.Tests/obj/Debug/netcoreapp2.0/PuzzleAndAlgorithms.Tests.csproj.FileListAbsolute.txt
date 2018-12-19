@@ -1,0 +1,16 @@
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\bin\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.deps.json
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\bin\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.runtimeconfig.json
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\bin\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.runtimeconfig.dev.json
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\bin\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.dll
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\bin\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.pdb
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\obj\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.csprojResolveAssemblyReference.cache
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\obj\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.csproj.CoreCompileInputs.cache
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\obj\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.AssemblyInfoInputs.cache
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\obj\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.AssemblyInfo.cs
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\obj\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.dll
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\obj\Debug\netcoreapp2.0\PuzzleAndAlgorithms.Tests.pdb
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\bin\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.dll
+C:\Users\tcurek\Source\Repos\PuzzlesAndAlgorithms\PuzzleAndAlgorithms.Tests\bin\Debug\netcoreapp2.0\PuzzlesAndAlgorithms.pdb

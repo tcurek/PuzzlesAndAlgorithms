@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "c:\\users\\tcurek\\Source\\Repos\\PuzzlesAndAlgorithms\\PuzzlesAndAlgorithms\\PuzzlesAndAlgorithms.csproj",
+      "projectUniqueName": "C:\\Users\\tcurek\\Source\\Repos\\PuzzlesAndAlgorithms\\PuzzlesAndAlgorithms\\PuzzlesAndAlgorithms.csproj",
       "projectName": "PuzzlesAndAlgorithms",
-      "projectPath": "c:\\users\\tcurek\\Source\\Repos\\PuzzlesAndAlgorithms\\PuzzlesAndAlgorithms\\PuzzlesAndAlgorithms.csproj",
+      "projectPath": "C:\\Users\\tcurek\\Source\\Repos\\PuzzlesAndAlgorithms\\PuzzlesAndAlgorithms\\PuzzlesAndAlgorithms.csproj",
       "packagesPath": "C:\\Users\\tcurek\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\tcurek\\Source\\Repos\\PuzzlesAndAlgorithms\\PuzzlesAndAlgorithms\\obj\\",
+      "outputPath": "C:\\Users\\tcurek\\Source\\Repos\\PuzzlesAndAlgorithms\\PuzzlesAndAlgorithms\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
