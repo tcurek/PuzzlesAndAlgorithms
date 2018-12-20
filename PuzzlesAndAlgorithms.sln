@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PuzzlesAndAlgorithms", "PuzzlesAndAlgorithms\PuzzlesAndAlgorithms.csproj", "{4DC19353-4EAA-4857-8E59-3D4D218526BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzleAndAlgorithms.Tests", "PuzzleAndAlgorithms.Tests\PuzzleAndAlgorithms.Tests.csproj", "{DC09D877-93D7-4EFE-98D1-7CEFB4B04BFF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PuzzlesAndAlgorithms.Tests", "PuzzleAndAlgorithms.Tests\PuzzlesAndAlgorithms.Tests.csproj", "{DC09D877-93D7-4EFE-98D1-7CEFB4B04BFF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
