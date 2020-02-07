@@ -7,7 +7,7 @@ namespace PuzzlesAndAlgorithms
 
         static void Main(string[] args)
         {
-
+ 
             Console.Read();
         }
 
