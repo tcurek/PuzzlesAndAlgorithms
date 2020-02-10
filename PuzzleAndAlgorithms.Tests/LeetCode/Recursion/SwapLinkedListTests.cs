@@ -9,10 +9,10 @@ namespace PuzzlesAndAlgorithms.Tests.LeetCode.Recursion
         [TestMethod()]
         public void EvenLinkedList()
         {
-            var node4 = new SwapLinkedList.ListNode { val = 4};
-            var node3 = new SwapLinkedList.ListNode { val = 3, next = node4};
-            var node2 = new SwapLinkedList.ListNode { val = 2, next = node3};
-            var head = new SwapLinkedList.ListNode { val = 1, next = node2};
+            var node4 = new ListNode { val = 4};
+            var node3 = new ListNode { val = 3, next = node4};
+            var node2 = new ListNode { val = 2, next = node3};
+            var head = new ListNode { val = 1, next = node2};
 
             var sut = new SwapLinkedList.Solution();
             var result = sut.SwapPairs(head);

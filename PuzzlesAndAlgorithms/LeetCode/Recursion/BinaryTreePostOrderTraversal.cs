@@ -4,14 +4,6 @@ namespace PuzzlesAndAlgorithms.LeetCode.Recursion
 {
     public static class BinaryTreePostOrderTraversal
     {
-        public class TreeNode
-        {
-            public int val;
-            public TreeNode left;
-            public TreeNode right;
-            public TreeNode(int x) { val = x; }
-         }
-
         /* Given a binary tree, return the postorder traversal of its nodes' values.
          *
          * Input: [1,null,2,3]

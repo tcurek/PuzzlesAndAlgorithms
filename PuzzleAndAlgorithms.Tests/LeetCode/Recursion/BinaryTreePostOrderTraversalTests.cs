@@ -35,14 +35,14 @@ namespace PuzzlesAndAlgorithms.Tests.LeetCode.Recursion
         //    }
         //}
 
-        private BinaryTreePostOrderTraversal.TreeNode GenerateTree1()
+        private TreeNode GenerateTree1()
         {
             //      7
             //  5       8
             //      1       41
             
-            var subRoot = new BinaryTreePostOrderTraversal.TreeNode(8) {left = new BinaryTreePostOrderTraversal.TreeNode(1), right = new BinaryTreePostOrderTraversal.TreeNode(41)};
-            var root = new BinaryTreePostOrderTraversal.TreeNode(7) {left = new BinaryTreePostOrderTraversal.TreeNode(5), right = subRoot};
+            var subRoot = new TreeNode(8) {left = new TreeNode(1), right = new TreeNode(41)};
+            var root = new TreeNode(7) {left = new TreeNode(5), right = subRoot};
             return root;
         }
     }
